@@ -1,7 +1,7 @@
 # Dow Jones App
-The app has been created as a project for Advanced Object and Functional Programming course conducted at WUT. In collaboration with my colleagues we decided to create an app for visualizing stock indices for enterprises included in Dow Jones Index.
+Hey! So, for this Advanced Object and Functional Programming course at WUT, me and my colleagues put together this  app. It's all about visualizing stock indices for companies in the Dow Jones Index.
 
-Sample screenshots below:
+Take a peek at these sample screenshots below: 📸
 
 ![](https://github.com/AKapich/Dow_Jones_App/blob/main/sample_screenshots/sample_screen.png)
 
